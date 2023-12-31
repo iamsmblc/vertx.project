@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (2)/vertx-core-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (2)/vertx-web-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-buffer-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-dns-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-haproxy-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-http2-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-http-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-mqtt-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-smtp-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-stomp-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-common-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-handler-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-handler-proxy-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-handler-ssl-ocsp-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-resolver-dns-classes-macos-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-resolver-dns-native-macos-4.1.94.Final-osx-aarch_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-udt-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-memcache-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-socks-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-resolver-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-classes-epoll-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-classes-kqueue-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-native-epoll-4.1.94.Final-linux-aarch_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-native-epoll-4.1.94.Final-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-native-kqueue-4.1.94.Final-osx-aarch_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-native-kqueue-4.1.94.Final-osx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-rxtx-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-redis-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-codec-xml-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-resolver-dns-native-macos-4.1.94.Final-osx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-native-unix-common-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-all-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-resolver-dns-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/lib/netty-transport-sctp-4.1.94.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (4)/vertx-auth-common-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (5)/vertx-auth-common-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (5)/vertx-auth-oauth2-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jackson-all-1.9.9.jar/jackson-all-1.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (6)/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (6)/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (6)/jackson-databind-2.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (6)/jjwt-api-0.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smybl/Downloads/jar_files (6)/jjwt-jackson-0.10.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
